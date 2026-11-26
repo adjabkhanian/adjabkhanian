@@ -1,4 +1,4 @@
-<a href="https://adjabkhanian.ru"><img src="hero.svg" width="100%" alt="Hovik Adjabkhanian — сайты, Telegram-боты и автоматизация" /></a>
+<a href="https://adjabkhanian.ru"><img src="hero.svg?brand=round" width="100%" alt="Hovik Adjabkhanian — сайты, Telegram-боты и автоматизация" /></a>
 
 <a href="https://adjabkhanian.ru/projects/"><img src="build.svg" width="32.5%" alt="Продукты — сервисы и приложения" /></a>
 <a href="https://adjabkhanian.ru/projects/"><img src="design.svg" width="32.5%" alt="Дизайн — интерфейсы и детали" /></a>
